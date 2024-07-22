@@ -2,7 +2,7 @@ This repo contains details my submission for the example RADAR exercise complete
 
 It consists of two parts:
 1. A client-facing report: `311-report.pdf`
-2. An R Markdown document detailing analysis: `transmitter-311-analysis.md`
+2. An R Markdown document detailing analysis: `notebook/transmitter-311-analysis.md`
 
 Thank you for your consideration,<br>
 Andrew
